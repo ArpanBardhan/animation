@@ -377,3 +377,22 @@ Thus, a Simple Android Application to add animations to ImageView,Move,blink,fad
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
